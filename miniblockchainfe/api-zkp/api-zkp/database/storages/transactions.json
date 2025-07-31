@@ -1,0 +1,51 @@
+[
+  {
+    "id": "t1",
+    "from_uid": 1,
+    "to_uid": 2,
+    "amount": 200,
+    "timestamp": 1722240900000
+  },
+  {
+    "id": "t2",
+    "from_uid": 2,
+    "to_uid": 1,
+    "amount": 100,
+    "timestamp": 1722243600000
+  },
+  {
+    "id": "1753835125905",
+    "from_uid": 1,
+    "to_uid": 2,
+    "amount": 100,
+    "timestamp": 1753835125905
+  },
+  {
+    "id": "1753835140721",
+    "from_uid": 1,
+    "to_uid": 2,
+    "amount": 9,
+    "timestamp": 1753835140721
+  },
+  {
+    "id": "1753839665261",
+    "from_uid": 1,
+    "to_uid": 3,
+    "amount": 50,
+    "timestamp": 1753839665261
+  },
+  {
+    "id": "1753852551322",
+    "from_uid": 2,
+    "to_uid": 2,
+    "amount": 333,
+    "timestamp": 1753852551322
+  },
+  {
+    "id": "1753862629261",
+    "from_uid": 1,
+    "to_uid": 2,
+    "amount": 1000,
+    "timestamp": 1753862629261
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1753885462412",
+    "from_uid": 3,
+    "to_uid": 1,
+    "amount": 1,
+    "timestamp": 1753885462412
+  },
+  {
+    "id": "1753887309270",
+    "from_uid": 4,
+    "to_uid": 2,
+    "amount": 100,
+    "timestamp": 1753887309270
+  },
+  {
+    "id": "1753890956217",
+    "from_uid": 2,
+    "to_uid": 1,
+    "amount": 100,
+    "timestamp": 1753890956217
+  },
+  {
+    "id": "1753923625008",
+    "from_uid": 1,
+    "to_uid": 2,
+    "amount": 50,
+    "timestamp": 1753923625008
+  }
+]
