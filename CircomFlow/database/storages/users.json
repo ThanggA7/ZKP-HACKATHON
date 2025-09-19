@@ -1,37 +1,23 @@
 [
   {
     "uid": 1,
-    "username": "testsan123",
-    "password": "testsan123",
-    "walletAddress": "0da9480d633b5ac46ae6252c2b2c60c86fecb18504d5e545d95cc88ea08b35c4",
-    "balance": 30
-  },
-  {
-    "uid": 2,
-    "username": "thangngoo",
-    "password": "123456",
-    "walletAddress": "1cf62965e5613cd404f589bbe2e214de8b504177c655e9533c41d24e86fae1d3",
-    "balance": 50
-  },
-  {
-    "uid": 3,
-    "username": "thanhngoo",
-    "password": "123456",
-    "walletAddress": "dcec9636089715499921bddb34af8aeec2526ad8827afbe60323a663ff86d301",
-    "balance": 988
-  },
-  {
-    "uid": 4,
     "username": "nhuthang",
-    "password": "123456",
-    "walletAddress": "342912e239314591d57eec13b9c7e06215783ed26894a2822fcbbd154a6b9883",
+    "password": "nhuthang",
+    "walletAddress": "1f6062cb1e47a94c624f14fe67c76b24761f2eca16d4a5d301924c09e624f621",
     "balance": 0
   },
   {
-    "uid": 5,
-    "username": "tiendung1",
-    "password": "123456",
-    "walletAddress": "07bb8834d212bef6cade17e94cd892d1231cd21701defd68b30884d28bdda17b",
-    "balance": 300
+    "uid": 2,
+    "username": "hieu123",
+    "password": "hieu123",
+    "walletAddress": "1f6062cb1e47a94c624f14fe67c76b24761f2eca16d4a5d301924c09e624f622",
+    "balance": 1000
+  },
+  {
+    "uid": 3,
+    "username": "nhuthangl",
+    "password": "nhuthangl",
+    "walletAddress": "9b4d618f93aec148f6715603d847d26fc9261d550e8b13c964887adb8beb64ee",
+    "balance": 500
   }
 ]

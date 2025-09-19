@@ -8,7 +8,6 @@ export default function Home() {
   const router = useRouter();
 
   useEffect(() => {
-  
     if (!loading) {
       if (isAuthenticated) {
         router.push("/Dashboard");
@@ -16,10 +15,7 @@ export default function Home() {
         router.push("/Login");
       }
     }
-
-
   }, [isAuthenticated, loading, router]);
-
 
   if (loading) {
     return (
@@ -32,5 +28,5 @@ export default function Home() {
     );
   }
 
-  return null; 
+  return null;
 }

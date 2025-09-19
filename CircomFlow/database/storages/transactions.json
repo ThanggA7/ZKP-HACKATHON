@@ -26,5 +26,26 @@
     "to_uid": 2,
     "amount": 50,
     "timestamp": 1753923625008
+  },
+  {
+    "id": "1754179888499",
+    "from_uid": 5,
+    "to_uid": 1,
+    "amount": 1,
+    "timestamp": 1754179888500
+  },
+  {
+    "id": "1754327190817",
+    "from_uid": 5,
+    "to_uid": 1,
+    "amount": 300,
+    "timestamp": 1754327190817
+  },
+  {
+    "id": "1758166877826",
+    "from_uid": 1,
+    "to_uid": 4,
+    "amount": 50,
+    "timestamp": 1758166877826
   }
 ]

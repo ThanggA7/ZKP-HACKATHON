@@ -58,7 +58,7 @@ node .\compiler\ <đường_dẫn_đến_thư_mục_chứa_mạch>
 **Ví dụ:**
 
 ```bash
-node .\compiler\ .\circuits\all_non_negative\
+node .\complier\ .\circuits\all_non_negative\
 ```
 
 ### Mạch chính:
